@@ -1,0 +1,5 @@
+{
+  "name": "ChefPro - Gestão de Fichas Técnicas e Custos",
+  "description": "Sistema completo para gestão de ingredientes, cálculo de custos de receitas, precificação com margem e geração automática de tabelas nutricionais e fichas técnicas via IA.",
+  "requestFramePermissions": []
+}
